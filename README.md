@@ -1,4 +1,7 @@
-# mawnscrape
+A webscraping utility for soil moisture and precipitation value extraction from the Michigan Automated Weather Network (MAWN)  
+https://mawn.geo.msu.edu/  
+# mawnscrape  
+
 Prerequisites:  
 1. Python 3  
     Install at:  
