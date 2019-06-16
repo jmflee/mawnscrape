@@ -1,4 +1,4 @@
-A webscraping utility for soil moisture and precipitation value extraction from the Michigan Automated Weather Network (MAWN)  
+A webscraping utility for soil moisture and precipitation value extraction from all the stations in the Michigan Automated Weather Network (MAWN)  
 https://mawn.geo.msu.edu/  
 # mawnscrape  
 
